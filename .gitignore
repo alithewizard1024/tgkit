@@ -5,3 +5,5 @@ config.json
 *.log
 downloads/
 __pycache__/
+.venv/
+.tests/
