@@ -6,4 +6,4 @@ config.json
 downloads/
 __pycache__/
 .venv/
-.tests/
+tests/
