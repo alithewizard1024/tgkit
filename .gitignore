@@ -1,0 +1,7 @@
+config.json
+*.session
+*.session-journal
+*.db
+*.log
+downloads/
+__pycache__/
